@@ -1,0 +1,1 @@
+<?php $con=mysqli_connect('localhost','ebmsbusi_wp855','-p5Sr2t(a0','ebmsbusi_wp855') ?>
